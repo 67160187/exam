@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "ข้าวผัดกุ้ง",
+    "price": 60.0,
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "ผัดกะเพราหมูสับ",
+    "price": 50.0,
+    "available": true
+  },
+  {
+    "id": 3,
+    "name": "ก๋วยเตี๋ยวเรือ",
+    "price": 55.0,
+    "available": true
+  },
+  {
+    "id": 4,
+    "name": "ข้าวมันไก่",
+    "price": 50.0,
+    "available": true
+  },
+  {
+    "id": 5,
+    "name": "ส้มตำไทย",
+    "price": 40.0,
+    "available": true
+  },
+  {
+    "id": 6,
+    "name": "ไก่ทอด 2 ชิ้น",
+    "price": 45.0,
+    "available": true
+  },
+  {
+    "id": 7,
+    "name": "ต้มยำกุ้ง",
+    "price": 90.0,
+    "available": true
+  },
+  {
+    "id": 8,
+    "name": "แกงเขียวหวานไก่",
+    "price": 65.0,
+    "available": true
+  },
+  {
+    "id": 9,
+    "name": "ข้าวขาหมู",
+    "price": 70.0,
+    "available": false
+  },
+  {
+    "id": 10,
+    "name": "ผัดไทยกุ้งสด",
+    "price": 75.0,
+    "available": true
+  },
+  {
+    "id": 11,
+    "name": "สเต็กไก่",
+    "price": 120.0,
+    "available": true
+  },
+  {
+    "id": 12,
+    "name": "ยำวุ้นเส้น",
+    "price": 45.0,
+    "available": true
+  },
+  {
+    "id": 13,
+    "name": "ข้าวราดแกงจืด",
+    "price": 40.0,
+    "available": true
+  },
+  {
+    "id": 14,
+    "name": "ลาบหมู",
+    "price": 55.0,
+    "available": true
+  },
+  {
+    "id": 15,
+    "name": "ชาเย็น",
+    "price": 25.0,
+    "available": true
+  },
+  {
+    "id": 16,
+    "name": "น้ำมะนาว",
+    "price": 20.0,
+    "available": true
+  },
+  {
+    "id": 17,
+    "name": "กาแฟเย็น",
+    "price": 35.0,
+    "available": true
+  },
+  {
+    "id": 18,
+    "name": "น้ำแตงโม",
+    "price": 30.0,
+    "available": false
+  },
+  {
+    "id": 19,
+    "name": "ขนมปังปิ้ง",
+    "price": 25.0,
+    "available": true
+  },
+  {
+    "id": 20,
+    "name": "บิงซู",
+    "price": 85.0,
+    "available": true
+  },
+  {
+    "id": 21,
+    "name": "ข้าวไข่เจียวหมูสับ",
+    "price": 55.0,
+    "available": true
+  },
+  {
+    "id": 22,
+    "name": "สุกี้น้ำ",
+    "price": 110.0,
+    "available": true
+  }
+]
